@@ -111,6 +111,9 @@ body {
     justify-content: center;
 }
 
+.button:hover{
+    user-select: none;
+}
 #proceed:hover{
     background-color: hsl(224, 23%, 55%);
     transition: 200ms;
